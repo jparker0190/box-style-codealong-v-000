@@ -160,6 +160,9 @@ img, video, audio, iframe, table, form {
 header {
   margin: 0 0 30px;
 }
+#details {
+  border-top: 1px solid white;
+}
 #navbar {
   position: fixed;
   top: 0;
