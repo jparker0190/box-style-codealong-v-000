@@ -153,7 +153,14 @@ img, video, audio, iframe, table, form {
   font-family: 'Clicker Script', cursive;
   margin: 0;
 }
-
+footer{
+  text-align: center;
+  font-size: 0.75em;
+  padding: 10px;
+  background: #eee;
+  border-top: 1px;
+  
+}
 #logo h2 {
   font-family: 'Elsie Swash Caps', cursive;
 }
