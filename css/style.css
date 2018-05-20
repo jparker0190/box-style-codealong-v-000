@@ -177,9 +177,15 @@ header {
   margin: 0;
   padding: 22px 0;
   text-transform: uppercase;
-  color: black; 
+  color: black;
   text-align: center;
   border-right: 1px solid #ccc;
+  text-decoration: none;
+  font: 1em "Trebuchet MS", Arial, sans-serif;
+}
+#navbar nav a a.selected{
+  background: #333;
+  color: white;
 }
 /*////////// MAIN SECTIONS //////////*/
 
