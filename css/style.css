@@ -119,6 +119,9 @@ img, video, audio, iframe, table, form {
   border-right: 1px dotted #ccc;
   padding-right: 30px;
 }
+.white-wood{
+  background: url(../images/white-wood.jpg) no-repeat;
+}
 
 /*////////// NAVBAR //////////*/
 
