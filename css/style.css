@@ -156,6 +156,18 @@ img, video, audio, iframe, table, form {
 #logo h2 {
   font-family: 'Elsie Swash Caps', cursive;
 }
+header {
+  margin: 0 0 30px;
+}
+#navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 2;
+  border-bottom: 1px;
+  
+}
 
 /*////////// MAIN SECTIONS //////////*/
 
