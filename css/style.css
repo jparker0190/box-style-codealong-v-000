@@ -115,6 +115,9 @@ img, video, audio, iframe, table, form {
 .shadow{
   box-shadow: 0 3px 10px #333;
 }
+.border-right{
+  border-right: 1px dotted #ccc;
+}
 
 /*////////// NAVBAR //////////*/
 
